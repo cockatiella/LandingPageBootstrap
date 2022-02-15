@@ -8,3 +8,4 @@ https://icons.getbootstrap.com/
 https://getwaves.io/
 https://cssgradient.io/
 
+Thomas don't steal my code, lol
